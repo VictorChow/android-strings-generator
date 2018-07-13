@@ -1,0 +1,3 @@
+<resources><% for (i in strings) { %>
+    <string name="string_<%= i %>"><%- strings[i].replace(/'/g, '\\\'') %></string><% } %>
+</resources>
