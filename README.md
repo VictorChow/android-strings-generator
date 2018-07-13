@@ -11,7 +11,7 @@ npm i -g yo
 npm link
 ```
 
-Add folder names in first row
+Add folder names in first row, such as:
 
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1ft8aviqy4aj31be09g3zh.jpg)
 
@@ -20,6 +20,10 @@ Then generate your files:
 ```bash
 yo androidstrings your_csv_path
 ```
+
+Folders in strings-values:
+
+![](https://ws4.sinaimg.cn/large/006tNc79ly1ft8bk4x9bvj30to0i23ys.jpg)
 
 
 
